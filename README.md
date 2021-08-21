@@ -1,3 +1,3 @@
 # Answer key
-for [*Plants&Python](https://plantsandpython.github.io/PlantsAndPython)
+for [*Plants&Python*](https://plantsandpython.github.io/PlantsAndPython)
 
